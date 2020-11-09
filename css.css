@@ -1,0 +1,22 @@
+.hed{
+    ;
+    color:#000066;
+    text-decoration: underline;
+    text-shadow: 2px 2px 8px;
+}
+.myclass{
+    background-color: #66ffff;
+    
+}
+.class1 {
+    color:darkblue;
+    background-color: wheat;
+}
+.class2{
+    background-color: #ffcccc;
+    color: #4d0000;
+}
+.class3{
+    background-color: #ffff99;
+    color:#333300;
+}
